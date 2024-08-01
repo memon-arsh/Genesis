@@ -1,0 +1,175 @@
+@media only screen and (max-width:1020px) {
+
+    .navbar-1 {
+
+        display: none;
+    }
+
+    .first-section {
+        width: 100%;
+        /* background-color: green; */
+        background-size: cover;
+        background-position: center;
+    }
+
+    .first-nav {
+
+
+        display: flex;
+        justify-content: end;
+        background-color: green;
+
+
+    }
+
+    .first-nav img {
+        display: flex;
+        width: 150px;
+    }
+
+    .first-nav ul {
+        display: none;
+
+    }
+
+    .text-box {
+
+        width: 80%;
+        margin-left: 50px;
+        /* background-color: rgba(0, 0, 0, 0.707); */
+        background-color: green;
+        padding: 25px;
+
+
+
+    }
+
+    .text-box h1 {
+        font-size: 20px;
+    }
+
+    .text-box p {
+        font-size: 15px;
+    }
+
+     .second-section {
+       
+        width: 250px;
+        height: 250px;
+        height: auto;
+        
+    }
+
+
+    .detail-box {
+        width: 90%;
+        display: flex;
+        justify-content: space-around;
+        gap: 30px;
+    }
+
+    .detail-box button {
+        padding: 8px 30px;
+    }
+
+    .second-container {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        align-items: center;
+        justify-content: space-around;
+        gap: 30px;
+
+    }
+
+
+    .second-container .card {
+        /* border: 4px solid green; */
+        width: 90%;
+    }
+
+
+    .third-section {
+
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+
+        align-items: center;
+        justify-content: center;
+    }
+
+    .third-left {
+        width: 90%;
+        height: auto;
+
+    }
+
+    .third-right {
+        width: 90%;
+        height: auto;
+    }
+
+    .fourth-section {
+        height: auto;
+        padding: 100px;
+
+    }
+
+    .fourth-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        gap: 30px;
+        margin-top: 50px;
+    }
+
+    .fifth-section {
+        height: auto;
+        width: 100%;
+        padding: 100px;
+        background-size: cover;
+        background-position: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        gap: 50px;
+    }
+
+    .sixth-section {
+        height: auto;
+        width: 100%;
+        padding: 50px 0;
+    }
+
+    .text-box1 {
+        width: 100%;
+        /* border: 3px solid red; */
+    }
+
+    .text-box1 p {
+        width: 90%;
+        /* background-color: red; */
+    }
+
+    .last-section {
+        width: 100%;
+        height: auto;
+        padding: 100px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .card3 {
+        border: 1px solid white;
+        padding: 10px;
+        height: auto;
+    /* } */
+
+}
